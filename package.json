@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "HTML5 Speedtest with NodeJS Backend",
   "main": "src/Speedtest.js",
-  "repository": "https://github.com/dunklesToast/NodeSpeedtest",
+  "repository": "https://github.com/Matt-MF/speedtest",
   "license": "MIT",
   "private": false,
   "dependencies": {
